@@ -4,7 +4,7 @@
 ### Rifles
 
 - [x] [SMG](SMG.md)
-- [ ] [Carbine](Carbine.md)
+- [x] [Carbine](Carbine.md)
 - [x] [Assault Rifle](AssaultRifle.md)
 - [x] [Battle Rifle](BattleRifle.md)
 
@@ -20,8 +20,8 @@
 ### Machine Guns
 
 - [x] [Cannon](Cannon.md)
-- [ ] [LMG](LMG.md)
-- [ ] [SAW](SAW.md)
+- [x] [LMG](LMG.md)
+- [x] [SAW](SAW.md)
 
 ## [Tier List](Weapon%20Tiers/README.md)
 
